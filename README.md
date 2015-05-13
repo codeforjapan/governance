@@ -1,6 +1,6 @@
 Code for Japan の今後を皆で考える
 -----
-Code for Japanの活動の今後の活動を皆で考えたいと考えています。  
+Code for Japanの活動の今後の活動を皆で考えたいと思います。
 特に、以下の点について皆様とお話できればと思います。
 
 * 参加者に開かれたコミュニケーションを実現する
@@ -10,14 +10,15 @@ Code for Japanの活動の今後の活動を皆で考えたいと考えていま
 Code for Japanのの活動経験の有無や、社員や会員種別での区分けなどはなくどなたでも参加できますが、皆様からご意見を頂戴しますので、聞くだけではなく主体的にその場にコミットできる方にご参加いただきたいと思います。
 
 ### 議論に参加する方法
-Code for Japanの活動の今後の活動の議論は、Slackの#governanceチャンネルで行います。
-議論に参加される方は、Code for JapanのSlackに招待いたしますので、[Code for Japan facebook 参加メンバー向けグループ](https://www.facebook.com/groups/codeforjapan/)のタイムラインで連絡を頂くか、直接Cfjの関係者に連絡してください。
 
-* Slack - <https://cfj.slack.com/>
-    - [#governance - Code for Japanの今後を皆で考えるために議論をするチャンネルです](https://cfj.slack.com/messages/governance/)
+Code for Japanの活動の今後の活動の議論は、**Slack**の**#governance**チャンネルで行います。
+議論に参加される方は、Code for JapanのSlackに招待いたしますので、メールアドレスをお知らせください。  
+メールアドレスは、Code for Japanのfacebookグループの[Code for Japan 参加メンバー向けグループ](https://www.facebook.com/groups/codeforjapan/)のタイムラインで連絡をして頂くか、連絡先メールアドレス：<a href="mailto:admin@code4japan.org">admin@code4japan.org</a>にメールを送信ください。
 
-* [Code for Japan Facebook 参加メンバー向けグループ](https://www.facebook.com/groups/codeforjapan/)
-* [Code for Japan Slack](https://cfj.slack.com/)
+* [Code for Japan - Slack](https://cfj.slack.com/messages/governance/)
+    - **#governance** -> Code for Japanの今後を皆で考えるために議論をするチャンネルです
+
+* [Facebookグループ - Code for Japan 参加メンバー向けグループ](https://www.facebook.com/groups/codeforjapan/)
 
 ### 過去の議論のまとめ
 
