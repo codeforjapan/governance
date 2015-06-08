@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/codeforjapan/governance.png?label=ready&title=Ready)](https://waffle.io/codeforjapan/governance)
+[![Stories in Ready](https://badge.waffle.io/codeforjapan/governance.png?label=ready&title=Ready)考える会タスクボード](https://waffle.io/codeforjapan/governance)
 Code for Japan の今後を「ともに考え、ともに作る」
 -----
 
