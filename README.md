@@ -1,34 +1,7 @@
-[![Stories in Ready](https://badge.waffle.io/codeforjapan/governance.png?label=ready&title=Ready)考える会タスクボード](https://waffle.io/codeforjapan/governance)
-Code for Japan の今後を「ともに考え、ともに作る」
------
+Code for Japaのガバナンス関連をまとめています
 
-Code for Japanの今後の活動を皆で考えたいと思っています。
-  
-特に、以下の点について皆様とお話できればと思います。
 
-* 参加者に開かれたコミュニケーションを実現する
-* 何かコトを起こしたい人、手伝いたい人に開かれた環境を作る
-* 持続可能な運営体制を作る
-
-Code for Japanのの活動経験の有無や、社員や会員種別での区分けなどはなくどなたでも参加できますが、皆様からご意見を頂戴しますので、聞くだけではなく主体的にその場にコミットできる方にご参加いただきたいと思います。
-
-### 議論に参加する方法
-
-Code for Japanの活動の今後の活動の議論は、**Slack**の**#governance**チャンネルで行います。
-議論に参加される方は、Code for JapanのSlackに招待いたしますので、メールアドレスをお知らせください。  
-メールアドレスは、Code for Japanのfacebookグループの[Code for Japan 参加メンバー向けグループ][1]のタイムラインで連絡をして頂くか、連絡先メールアドレス：<a href="mailto:admin@code4japan.org">admin@code4japan.org</a>にメールで連絡ください。
-
-* [Code for Japan - Slack#governance][2]
-    - **#governance** -> Code for Japanの今後を皆で考えるために議論をするチャンネルです
-
-* [Facebookグループ - Code for Japan 参加メンバー向けグループ][1]
-
-### 過去の議論のまとめ
-
-過去の議論についてはまとめ掲示板に掲載しています。議論の経過については下記のリンクを参照ください。
-
-* [過去の議論 まとめ掲示板 (Wiki)][3]
-
-[1]:https://www.facebook.com/groups/codeforjapan/
-[2]:https://cfj.slack.com/messages/governance/
-[3]:https://github.com/codeforjapan/governance/wiki/%E3%81%BE%E3%81%A8%E3%82%81%E6%8E%B2%E7%A4%BA%E6%9D%BF-(Wiki)
+関連Wikiページ
+---------
+* [Code for Japan の今後を皆で考える会](https://github.com/codeforjapan/governance/wiki/Code-for-Japan-%E3%81%AE%E4%BB%8A%E5%BE%8C%E3%82%92%E7%9A%86%E3%81%A7%E8%80%83%E3%81%88%E3%82%8B%E4%BC%9A)
+  - [まとめ掲示板 (Wiki)](https://github.com/codeforjapan/governance/wiki/Code-for-Japan-%E3%81%AE%E4%BB%8A%E5%BE%8C%E3%82%92%E7%9A%86%E3%81%A7%E8%80%83%E3%81%88%E3%82%8B%E4%BC%9A---%E3%81%BE%E3%81%A8%E3%82%81%E6%8E%B2%E7%A4%BA%E6%9D%BF-(Wiki))
