@@ -1,4 +1,4 @@
-Code for Japaのガバナンス関連をまとめています
+Code for Japaのガバナンスついてのお知らせです
 
 
 関連Wikiページ
